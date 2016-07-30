@@ -6,7 +6,7 @@ func main(){
   fmt.Println("sum(4,6) returns: ", sum(4, 6))
   fmt.Println("half_and_even(4) returns: ")
   fmt.Println("maximum(5, 6, 8, 2, 1) returns: ", maximum(5, 6, 8, 2, 1))
-  fmt.Println("fib(8)) returns: ", fib(8))
+  fmt.Println("fib(8) returns: ", fib(8))
 }
 
 func sum(x int, y int) int{
